@@ -55,8 +55,10 @@ pre, code, kbd{
 header{
     width: 100%;
     background: url(https://placeimg.com/640/480/people);
-    color: green;
+    color: black;
+	text-shadow: 1px 1px cyan;
     padding: 20px 0 20px 35px;
+	background-size: cover;
 	  }
 
 
