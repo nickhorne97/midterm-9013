@@ -85,6 +85,7 @@ nav a:visited {
     text-align: center;
     text-decoration: none;
     color: black;
+	text-shadow: 1px 1px cyan;
 
 
 }
