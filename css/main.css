@@ -91,8 +91,8 @@ nav a:visited {
 nav a:active,
 nav a:focus,
 nav a:hover{
-    background: yellow;
-    color: orange;
+    background: black;
+    color: cyan;
 }
 
 
