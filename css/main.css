@@ -130,6 +130,7 @@ h1{
 }
 h2{
     font-size: 3rem;
+	text-shadow: 1px 1px cyan;
 }
 
 .wrapper{
